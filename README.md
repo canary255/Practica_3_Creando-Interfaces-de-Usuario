@@ -26,8 +26,12 @@
   - **Barra espaciadora** - Resetea las coordenadas por defecto.
   - **O** - Cambia la cámara a modo fijo.
   
-```Nota 1: Se han añadido más planetas, pero se ha comentado para que la cámara tenga una mejor visión del resto y se aprecie las figuras. Puede descomentarlo si quiere ver el resto de planetas.
-Nota 2: Se ha probado la biblioteca "PeasyCam" para tener movimiento libre de la cámara, pero el movimiento de rotación acababa dando dificultades de visión al usuario y se ha descartado la opción, puede descomentar los comandos de este si lo desea.
+```
+Nota 1: Se han añadido más planetas, pero se ha comentado para que la cámara
+tenga una mejor visión del resto y se aprecie las figuras. Puede descomentarlo si quiere ver el resto de planetas.
+Nota 2: Se ha probado la biblioteca "PeasyCam" para tener movimiento libre de la cámara,
+pero el movimiento de rotación acababa dando dificultades de visión al usuario y se ha descartado la opción,
+puede descomentar los comandos de este si lo desea.
 ```
   
 ### Herramientas y Referencias
