@@ -38,8 +38,6 @@ puede descomentar los comandos de este si lo desea probar.
   
   - [Conversión video a GIF](https://ezgif.com/video-to-gif)
   
-  - [Daniel Shiffman. PShape tutorial](https://processing.org/tutorials/pshape/.)
-  
   - [Texturas](http://planetpixelemporium.com/)
   
   - [Referencia para el sistema planetario](https://www.youtube.com/watch?v=l8SiJ-RmeHU)
