@@ -26,7 +26,7 @@
   - **Barra espaciadora** - Resetea las coordenadas por defecto.
   - **O** - Cambia la cámara a modo fijo.
   
-```Nota: Se han añadido más planetas, pero se ha comentado para que la cámara tenga una mejor visión del resto de los planetas y se aprecie las figuras. Puede descomentarlo si quiere ver el resto de planetas.```
+```Nota: Se han añadido más planetas, pero se ha comentado para que la cámara tenga una mejor visión del resto y se aprecie las figuras. Puede descomentarlo si quiere ver el resto de planetas.```
   
 ### Herramientas y Referencias
   
