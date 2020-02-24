@@ -15,7 +15,7 @@
 
 ### Instrucciones
 - Modo Fijo:
-  - **Tecla K** - Cambia la cámara a modo libre.
+  - **K** - Cambia la cámara a modo libre.
 - Modo Libre:
   - **T** - Mueve la cámara hacia arriba.
   - **G** - Mueve la cámara hacia abajo.
@@ -25,6 +25,8 @@
   - **S** - Aleja la cámara.
   - **Barra espaciadora** - Resetea las coordenadas por defecto.
   - **O** - Cambia la cámara a modo fijo.
+  
+```Nota: Se han añadido más planetas, pero se ha comentado para que la cámara tenga una mejor visión del resto de los planetas y se aprecie las figuras. Puede descomentarlo si quiere ver el resto de planetas.```
   
 ### Herramientas y Referencias
   
